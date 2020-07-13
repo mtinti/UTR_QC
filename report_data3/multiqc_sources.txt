@@ -1,0 +1,144 @@
+Module	Section	Sample Name	Source
+fastp	all_sections	BSF_01	/cluster/majf_lab/mtinti/UTR/BSF_01/res3/BSF_01/fastp/BSF_01__fastp.json
+fastp	all_sections	BSF_03	/cluster/majf_lab/mtinti/UTR/BSF_03/res3/BSF_03/fastp/BSF_03__fastp.json
+fastp	all_sections	BSF_04	/cluster/majf_lab/mtinti/UTR/BSF_04/res3/BSF_04/fastp/BSF_04__fastp.json
+fastp	all_sections	BSF_05	/cluster/majf_lab/mtinti/UTR/BSF_05/res3/BSF_05/fastp/BSF_05__fastp.json
+fastp	all_sections	BSF_06	/cluster/majf_lab/mtinti/UTR/BSF_06/res3/BSF_06/fastp/BSF_06__fastp.json
+fastp	all_sections	BSF_07	/cluster/majf_lab/mtinti/UTR/BSF_07/res3/BSF_07/fastp/BSF_07__fastp.json
+fastp	all_sections	BSF_08	/cluster/majf_lab/mtinti/UTR/BSF_08/res3/BSF_08/fastp/BSF_08__fastp.json
+fastp	all_sections	PCF_01	/cluster/majf_lab/mtinti/UTR/PCF_01/res3/PCF_01/fastp/PCF_01__fastp.json
+fastp	all_sections	PCF_02	/cluster/majf_lab/mtinti/UTR/PCF_02/res3/PCF_02/fastp/PCF_02__fastp.json
+fastp	all_sections	PCF_03	/cluster/majf_lab/mtinti/UTR/PCF_03/res3/PCF_03/fastp/PCF_03__fastp.json
+fastp	all_sections	PCF_04	/cluster/majf_lab/mtinti/UTR/PCF_04/res3/PCF_04/fastp/PCF_04__fastp.json
+fastp	all_sections	PCF_06	/cluster/majf_lab/mtinti/UTR/PCF_06/res3/PCF_06/fastp/PCF_06__fastp.json
+fastp	all_sections	PCF_07	/cluster/majf_lab/mtinti/UTR/PCF_07/res3/PCF_07/fastp/PCF_07__fastp.json
+Bowtie 2	all_sections	BSF_01	/cluster/majf_lab/mtinti/UTR/BSF_01/res3/BSF_01/bowtie/BSF_01.log
+Bowtie 2	all_sections	BSF_03	/cluster/majf_lab/mtinti/UTR/BSF_03/res3/BSF_03/bowtie/BSF_03.log
+Bowtie 2	all_sections	BSF_04	/cluster/majf_lab/mtinti/UTR/BSF_04/res3/BSF_04/bowtie/BSF_04.log
+Bowtie 2	all_sections	BSF_05	/cluster/majf_lab/mtinti/UTR/BSF_05/res3/BSF_05/bowtie/BSF_05.log
+Bowtie 2	all_sections	BSF_06	/cluster/majf_lab/mtinti/UTR/BSF_06/res3/BSF_06/bowtie/BSF_06.log
+Bowtie 2	all_sections	BSF_07	/cluster/majf_lab/mtinti/UTR/BSF_07/res3/BSF_07/bowtie/BSF_07.log
+Bowtie 2	all_sections	BSF_08	/cluster/majf_lab/mtinti/UTR/BSF_08/res3/BSF_08/bowtie/BSF_08.log
+Bowtie 2	all_sections	PCF_01	/cluster/majf_lab/mtinti/UTR/PCF_01/res3/PCF_01/bowtie/PCF_01.log
+Bowtie 2	all_sections	PCF_02	/cluster/majf_lab/mtinti/UTR/PCF_02/res3/PCF_02/bowtie/PCF_02.log
+Bowtie 2	all_sections	PCF_03	/cluster/majf_lab/mtinti/UTR/PCF_03/res3/PCF_03/bowtie/PCF_03.log
+Bowtie 2	all_sections	PCF_04	/cluster/majf_lab/mtinti/UTR/PCF_04/res3/PCF_04/bowtie/PCF_04.log
+Bowtie 2	all_sections	PCF_06	/cluster/majf_lab/mtinti/UTR/PCF_06/res3/PCF_06/bowtie/PCF_06.log
+Bowtie 2	all_sections	PCF_07	/cluster/majf_lab/mtinti/UTR/PCF_07/res3/PCF_07/bowtie/PCF_07.log
+Picard	DuplicationMetrics	BSF_01	/cluster/majf_lab/mtinti/UTR/BSF_01/res3/BSF_01/markduplicates/marked_dup_metrics.txt
+Picard	DuplicationMetrics	BSF_03	/cluster/majf_lab/mtinti/UTR/BSF_03/res3/BSF_03/markduplicates/marked_dup_metrics.txt
+Picard	DuplicationMetrics	BSF_04	/cluster/majf_lab/mtinti/UTR/BSF_04/res3/BSF_04/markduplicates/marked_dup_metrics.txt
+Picard	DuplicationMetrics	BSF_05	/cluster/majf_lab/mtinti/UTR/BSF_05/res3/BSF_05/markduplicates/marked_dup_metrics.txt
+Picard	DuplicationMetrics	BSF_06	/cluster/majf_lab/mtinti/UTR/BSF_06/res3/BSF_06/markduplicates/marked_dup_metrics.txt
+Picard	DuplicationMetrics	BSF_07	/cluster/majf_lab/mtinti/UTR/BSF_07/res3/BSF_07/markduplicates/marked_dup_metrics.txt
+Picard	DuplicationMetrics	BSF_08	/cluster/majf_lab/mtinti/UTR/BSF_08/res3/BSF_08/markduplicates/marked_dup_metrics.txt
+Picard	DuplicationMetrics	PCF_01	/cluster/majf_lab/mtinti/UTR/PCF_01/res3/PCF_01/markduplicates/marked_dup_metrics.txt
+Picard	DuplicationMetrics	PCF_02	/cluster/majf_lab/mtinti/UTR/PCF_02/res3/PCF_02/markduplicates/marked_dup_metrics.txt
+Picard	DuplicationMetrics	PCF_03	/cluster/majf_lab/mtinti/UTR/PCF_03/res3/PCF_03/markduplicates/marked_dup_metrics.txt
+Picard	DuplicationMetrics	PCF_04	/cluster/majf_lab/mtinti/UTR/PCF_04/res3/PCF_04/markduplicates/marked_dup_metrics.txt
+Picard	DuplicationMetrics	PCF_06	/cluster/majf_lab/mtinti/UTR/PCF_06/res3/PCF_06/markduplicates/marked_dup_metrics.txt
+Picard	DuplicationMetrics	PCF_07	/cluster/majf_lab/mtinti/UTR/PCF_07/res3/PCF_07/markduplicates/marked_dup_metrics.txt
+FastQ Screen	all_sections	BSF_01	/cluster/majf_lab/mtinti/UTR/BSF_01/res3/BSF_01/fastqs/BSF_01_.sorted_unmap_all_1_screen.txt
+FastQ Screen	all_sections	BSF_03	/cluster/majf_lab/mtinti/UTR/BSF_03/res3/BSF_03/fastqs/BSF_03_.sorted_unmap_all_1_screen.txt
+FastQ Screen	all_sections	BSF_04	/cluster/majf_lab/mtinti/UTR/BSF_04/res3/BSF_04/fastqs/BSF_04_.sorted_unmap_all_1_screen.txt
+FastQ Screen	all_sections	BSF_05	/cluster/majf_lab/mtinti/UTR/BSF_05/res3/BSF_05/fastqs/BSF_05_.sorted_unmap_all_1_screen.txt
+FastQ Screen	all_sections	BSF_06	/cluster/majf_lab/mtinti/UTR/BSF_06/res3/BSF_06/fastqs/BSF_06_.sorted_unmap_all_2_screen.txt
+FastQ Screen	all_sections	BSF_07	/cluster/majf_lab/mtinti/UTR/BSF_07/res3/BSF_07/fastqs/BSF_07_.sorted_unmap_all_1_screen.txt
+FastQ Screen	all_sections	BSF_08	/cluster/majf_lab/mtinti/UTR/BSF_08/res3/BSF_08/fastqs/BSF_08_.sorted_unmap_all_1_screen.txt
+FastQ Screen	all_sections	PCF_01	/cluster/majf_lab/mtinti/UTR/PCF_01/res3/PCF_01/fastqs/PCF_01_.sorted_unmap_all_1_screen.txt
+FastQ Screen	all_sections	PCF_02	/cluster/majf_lab/mtinti/UTR/PCF_02/res3/PCF_02/fastqs/PCF_02_.sorted_unmap_all_2_screen.txt
+FastQ Screen	all_sections	PCF_03	/cluster/majf_lab/mtinti/UTR/PCF_03/res3/PCF_03/fastqs/PCF_03_.sorted_unmap_all_2_screen.txt
+FastQ Screen	all_sections	PCF_04	/cluster/majf_lab/mtinti/UTR/PCF_04/res3/PCF_04/fastqs/PCF_04_.sorted_unmap_all_2_screen.txt
+FastQ Screen	all_sections	PCF_06	/cluster/majf_lab/mtinti/UTR/PCF_06/res3/PCF_06/fastqs/PCF_06_.sorted_unmap_all_1_screen.txt
+FastQ Screen	all_sections	PCF_07	/cluster/majf_lab/mtinti/UTR/PCF_07/res3/PCF_07/fastqs/PCF_07_.sorted_unmap_all_1_screen.txt
+QualiMap	genome_results	BSF_01	/cluster/majf_lab/mtinti/UTR/BSF_01/res3/BSF_01/qualimap/genome_results.txt
+QualiMap	genome_results	BSF_03	/cluster/majf_lab/mtinti/UTR/BSF_03/res3/BSF_03/qualimap/genome_results.txt
+QualiMap	genome_results	BSF_04	/cluster/majf_lab/mtinti/UTR/BSF_04/res3/BSF_04/qualimap/genome_results.txt
+QualiMap	genome_results	BSF_05	/cluster/majf_lab/mtinti/UTR/BSF_05/res3/BSF_05/qualimap/genome_results.txt
+QualiMap	genome_results	BSF_06	/cluster/majf_lab/mtinti/UTR/BSF_06/res3/BSF_06/qualimap/genome_results.txt
+QualiMap	genome_results	BSF_07	/cluster/majf_lab/mtinti/UTR/BSF_07/res3/BSF_07/qualimap/genome_results.txt
+QualiMap	genome_results	BSF_08	/cluster/majf_lab/mtinti/UTR/BSF_08/res3/BSF_08/qualimap/genome_results.txt
+QualiMap	genome_results	PCF_01	/cluster/majf_lab/mtinti/UTR/PCF_01/res3/PCF_01/qualimap/genome_results.txt
+QualiMap	genome_results	PCF_02	/cluster/majf_lab/mtinti/UTR/PCF_02/res3/PCF_02/qualimap/genome_results.txt
+QualiMap	genome_results	PCF_03	/cluster/majf_lab/mtinti/UTR/PCF_03/res3/PCF_03/qualimap/genome_results.txt
+QualiMap	genome_results	PCF_04	/cluster/majf_lab/mtinti/UTR/PCF_04/res3/PCF_04/qualimap/genome_results.txt
+QualiMap	genome_results	PCF_06	/cluster/majf_lab/mtinti/UTR/PCF_06/res3/PCF_06/qualimap/genome_results.txt
+QualiMap	genome_results	PCF_07	/cluster/majf_lab/mtinti/UTR/PCF_07/res3/PCF_07/qualimap/genome_results.txt
+QualiMap	coverage_histogram	BSF_01	/cluster/majf_lab/mtinti/UTR/BSF_01/res3/BSF_01/qualimap/BSF_01/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	BSF_03	/cluster/majf_lab/mtinti/UTR/BSF_03/res3/BSF_03/qualimap/BSF_03/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	BSF_04	/cluster/majf_lab/mtinti/UTR/BSF_04/res3/BSF_04/qualimap/BSF_04/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	BSF_05	/cluster/majf_lab/mtinti/UTR/BSF_05/res3/BSF_05/qualimap/BSF_05/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	BSF_06	/cluster/majf_lab/mtinti/UTR/BSF_06/res3/BSF_06/qualimap/BSF_06/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	BSF_07	/cluster/majf_lab/mtinti/UTR/BSF_07/res3/BSF_07/qualimap/BSF_07/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	BSF_08	/cluster/majf_lab/mtinti/UTR/BSF_08/res3/BSF_08/qualimap/BSF_08/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	PCF_01	/cluster/majf_lab/mtinti/UTR/PCF_01/res3/PCF_01/qualimap/PCF_01/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	PCF_02	/cluster/majf_lab/mtinti/UTR/PCF_02/res3/PCF_02/qualimap/PCF_02/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	PCF_03	/cluster/majf_lab/mtinti/UTR/PCF_03/res3/PCF_03/qualimap/PCF_03/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	PCF_04	/cluster/majf_lab/mtinti/UTR/PCF_04/res3/PCF_04/qualimap/PCF_04/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	PCF_06	/cluster/majf_lab/mtinti/UTR/PCF_06/res3/PCF_06/qualimap/PCF_06/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	PCF_07	/cluster/majf_lab/mtinti/UTR/PCF_07/res3/PCF_07/qualimap/PCF_07/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	insert_size_histogram	BSF_01	/cluster/majf_lab/mtinti/UTR/BSF_01/res3/BSF_01/qualimap/BSF_01/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	insert_size_histogram	BSF_03	/cluster/majf_lab/mtinti/UTR/BSF_03/res3/BSF_03/qualimap/BSF_03/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	insert_size_histogram	BSF_04	/cluster/majf_lab/mtinti/UTR/BSF_04/res3/BSF_04/qualimap/BSF_04/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	insert_size_histogram	BSF_05	/cluster/majf_lab/mtinti/UTR/BSF_05/res3/BSF_05/qualimap/BSF_05/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	insert_size_histogram	BSF_06	/cluster/majf_lab/mtinti/UTR/BSF_06/res3/BSF_06/qualimap/BSF_06/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	insert_size_histogram	BSF_07	/cluster/majf_lab/mtinti/UTR/BSF_07/res3/BSF_07/qualimap/BSF_07/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	insert_size_histogram	BSF_08	/cluster/majf_lab/mtinti/UTR/BSF_08/res3/BSF_08/qualimap/BSF_08/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	insert_size_histogram	PCF_01	/cluster/majf_lab/mtinti/UTR/PCF_01/res3/PCF_01/qualimap/PCF_01/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	insert_size_histogram	PCF_02	/cluster/majf_lab/mtinti/UTR/PCF_02/res3/PCF_02/qualimap/PCF_02/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	insert_size_histogram	PCF_03	/cluster/majf_lab/mtinti/UTR/PCF_03/res3/PCF_03/qualimap/PCF_03/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	insert_size_histogram	PCF_04	/cluster/majf_lab/mtinti/UTR/PCF_04/res3/PCF_04/qualimap/PCF_04/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	insert_size_histogram	PCF_06	/cluster/majf_lab/mtinti/UTR/PCF_06/res3/PCF_06/qualimap/PCF_06/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	insert_size_histogram	PCF_07	/cluster/majf_lab/mtinti/UTR/PCF_07/res3/PCF_07/qualimap/PCF_07/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	mapped_gc_distribution	BSF_01	/cluster/majf_lab/mtinti/UTR/BSF_01/res3/BSF_01/qualimap/BSF_01/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	BSF_03	/cluster/majf_lab/mtinti/UTR/BSF_03/res3/BSF_03/qualimap/BSF_03/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	BSF_04	/cluster/majf_lab/mtinti/UTR/BSF_04/res3/BSF_04/qualimap/BSF_04/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	BSF_05	/cluster/majf_lab/mtinti/UTR/BSF_05/res3/BSF_05/qualimap/BSF_05/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	BSF_06	/cluster/majf_lab/mtinti/UTR/BSF_06/res3/BSF_06/qualimap/BSF_06/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	BSF_07	/cluster/majf_lab/mtinti/UTR/BSF_07/res3/BSF_07/qualimap/BSF_07/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	BSF_08	/cluster/majf_lab/mtinti/UTR/BSF_08/res3/BSF_08/qualimap/BSF_08/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	PCF_01	/cluster/majf_lab/mtinti/UTR/PCF_01/res3/PCF_01/qualimap/PCF_01/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	PCF_02	/cluster/majf_lab/mtinti/UTR/PCF_02/res3/PCF_02/qualimap/PCF_02/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	PCF_03	/cluster/majf_lab/mtinti/UTR/PCF_03/res3/PCF_03/qualimap/PCF_03/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	PCF_04	/cluster/majf_lab/mtinti/UTR/PCF_04/res3/PCF_04/qualimap/PCF_04/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	PCF_06	/cluster/majf_lab/mtinti/UTR/PCF_06/res3/PCF_06/qualimap/PCF_06/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	PCF_07	/cluster/majf_lab/mtinti/UTR/PCF_07/res3/PCF_07/qualimap/PCF_07/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	rna_genome_results	BSF_01	/cluster/majf_lab/mtinti/UTR/BSF_01/res3/BSF_01/qualimap/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	BSF_03	/cluster/majf_lab/mtinti/UTR/BSF_03/res3/BSF_03/qualimap/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	BSF_04	/cluster/majf_lab/mtinti/UTR/BSF_04/res3/BSF_04/qualimap/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	BSF_05	/cluster/majf_lab/mtinti/UTR/BSF_05/res3/BSF_05/qualimap/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	BSF_06	/cluster/majf_lab/mtinti/UTR/BSF_06/res3/BSF_06/qualimap/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	BSF_07	/cluster/majf_lab/mtinti/UTR/BSF_07/res3/BSF_07/qualimap/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	BSF_08	/cluster/majf_lab/mtinti/UTR/BSF_08/res3/BSF_08/qualimap/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	PCF_01	/cluster/majf_lab/mtinti/UTR/PCF_01/res3/PCF_01/qualimap/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	PCF_02	/cluster/majf_lab/mtinti/UTR/PCF_02/res3/PCF_02/qualimap/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	PCF_03	/cluster/majf_lab/mtinti/UTR/PCF_03/res3/PCF_03/qualimap/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	PCF_04	/cluster/majf_lab/mtinti/UTR/PCF_04/res3/PCF_04/qualimap/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	PCF_06	/cluster/majf_lab/mtinti/UTR/PCF_06/res3/PCF_06/qualimap/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	PCF_07	/cluster/majf_lab/mtinti/UTR/PCF_07/res3/PCF_07/qualimap/rnaseq_qc_results.txt
+QualiMap	rna_coverage_histogram	BSF_01	/cluster/majf_lab/mtinti/UTR/BSF_01/res3/BSF_01/qualimap/BSF_01/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	BSF_03	/cluster/majf_lab/mtinti/UTR/BSF_03/res3/BSF_03/qualimap/BSF_03/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	BSF_04	/cluster/majf_lab/mtinti/UTR/BSF_04/res3/BSF_04/qualimap/BSF_04/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	BSF_05	/cluster/majf_lab/mtinti/UTR/BSF_05/res3/BSF_05/qualimap/BSF_05/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	BSF_06	/cluster/majf_lab/mtinti/UTR/BSF_06/res3/BSF_06/qualimap/BSF_06/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	BSF_07	/cluster/majf_lab/mtinti/UTR/BSF_07/res3/BSF_07/qualimap/BSF_07/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	BSF_08	/cluster/majf_lab/mtinti/UTR/BSF_08/res3/BSF_08/qualimap/BSF_08/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	PCF_01	/cluster/majf_lab/mtinti/UTR/PCF_01/res3/PCF_01/qualimap/PCF_01/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	PCF_02	/cluster/majf_lab/mtinti/UTR/PCF_02/res3/PCF_02/qualimap/PCF_02/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	PCF_03	/cluster/majf_lab/mtinti/UTR/PCF_03/res3/PCF_03/qualimap/PCF_03/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	PCF_04	/cluster/majf_lab/mtinti/UTR/PCF_04/res3/PCF_04/qualimap/PCF_04/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	PCF_06	/cluster/majf_lab/mtinti/UTR/PCF_06/res3/PCF_06/qualimap/PCF_06/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	PCF_07	/cluster/majf_lab/mtinti/UTR/PCF_07/res3/PCF_07/qualimap/PCF_07/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+featureCounts	all_sections	BSF_01	/cluster/majf_lab/mtinti/UTR/BSF_01/res3/BSF_01/featureCounts/counts.txt.summary
+featureCounts	all_sections	BSF_03	/cluster/majf_lab/mtinti/UTR/BSF_03/res3/BSF_03/featureCounts/counts.txt.summary
+featureCounts	all_sections	BSF_04	/cluster/majf_lab/mtinti/UTR/BSF_04/res3/BSF_04/featureCounts/counts.txt.summary
+featureCounts	all_sections	BSF_05	/cluster/majf_lab/mtinti/UTR/BSF_05/res3/BSF_05/featureCounts/counts.txt.summary
+featureCounts	all_sections	BSF_06	/cluster/majf_lab/mtinti/UTR/BSF_06/res3/BSF_06/featureCounts/counts.txt.summary
+featureCounts	all_sections	BSF_07	/cluster/majf_lab/mtinti/UTR/BSF_07/res3/BSF_07/featureCounts/counts.txt.summary
+featureCounts	all_sections	BSF_08	/cluster/majf_lab/mtinti/UTR/BSF_08/res3/BSF_08/featureCounts/counts.txt.summary
+featureCounts	all_sections	PCF_01	/cluster/majf_lab/mtinti/UTR/PCF_01/res3/PCF_01/featureCounts/counts.txt.summary
+featureCounts	all_sections	PCF_02	/cluster/majf_lab/mtinti/UTR/PCF_02/res3/PCF_02/featureCounts/counts.txt.summary
+featureCounts	all_sections	PCF_03	/cluster/majf_lab/mtinti/UTR/PCF_03/res3/PCF_03/featureCounts/counts.txt.summary
+featureCounts	all_sections	PCF_04	/cluster/majf_lab/mtinti/UTR/PCF_04/res3/PCF_04/featureCounts/counts.txt.summary
+featureCounts	all_sections	PCF_06	/cluster/majf_lab/mtinti/UTR/PCF_06/res3/PCF_06/featureCounts/counts.txt.summary
+featureCounts	all_sections	PCF_07	/cluster/majf_lab/mtinti/UTR/PCF_07/res3/PCF_07/featureCounts/counts.txt.summary
